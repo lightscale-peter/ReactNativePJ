@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>770840593530-4q1tjl9ivc3ncd0i1v36cq2b3egdhllq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.770840593530-4q1tjl9ivc3ncd0i1v36cq2b3egdhllq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAuz3sRhbbBmmMlqRmqA55ixo6f5cHgd28</string>
+	<key>GCM_SENDER_ID</key>
+	<string>770840593530</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.goowoo</string>
+	<key>PROJECT_ID</key>
+	<string>goowoo-aef3a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>goowoo-aef3a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:770840593530:ios:1fc8bf1ed46382ab4167c3</string>
+	<key>DATABASE_URL</key>
+	<string>https://goowoo-aef3a.firebaseio.com</string>
+</dict>
+</plist>

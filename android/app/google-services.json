@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "770840593530",
+    "firebase_url": "https://goowoo-aef3a.firebaseio.com",
+    "project_id": "goowoo-aef3a",
+    "storage_bucket": "goowoo-aef3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770840593530:android:71bbe8037b5bb03c4167c3",
+        "android_client_info": {
+          "package_name": "com.goowoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770840593530-j8ric162fqd5i20151uqtol6phh19sv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBESrogXnheUfZNQsE-fRO8uVjIxmYpTFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770840593530-j8ric162fqd5i20151uqtol6phh19sv3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "770840593530-4q1tjl9ivc3ncd0i1v36cq2b3egdhllq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goowoo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
